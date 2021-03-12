@@ -1,12 +1,6 @@
 package com.oop.exam;
 
-import com.oop.exam.model.Movie;
-import com.oop.exam.model.MovieScore;
-import com.oop.exam.model.Platform;
-import com.oop.exam.model.Review;
-import com.oop.exam.model.User;
-
-import com.oop.exam.service.MovieManager;
+import com.oop.exam.model.*;
 
 import java.util.Arrays;
 import java.util.Collections;
